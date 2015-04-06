@@ -1,0 +1,33 @@
+{
+  "name": "smart-vercomp",
+  "version": "0.1.0",
+  "description": "A smarter version comparison library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "vercomp": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Filirom1/smart-vercomp.git"
+  },
+  "keywords": [
+    "version",
+    "comparison"
+  ],
+  "author": "Filirom1 <Filirom1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Filirom1/smart-vercomp/issues"
+  },
+  "homepage": "https://github.com/Filirom1/smart-vercomp"
+}
