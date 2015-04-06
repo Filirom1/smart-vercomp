@@ -1,4 +1,4 @@
-# smart-vercomp
+# smart-vercomp [![Build Status](https://travis-ci.org/Filirom1/smart-vercomp.svg)](https://travis-ci.org/Filirom1/smart-vercomp)
 A smarter version comparison library
 
 This is a clone of the upstream_cmp function in <https://github.com/fedora-infra/anitya> in JavaScript.
